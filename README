@@ -1,0 +1,28 @@
+Program 3 – Auto Insurance 
+Write a program that computes monthly insurance according to the following schedule: 
+If you are ‘Male’ and your age is 	But less than 	the price of the vehicle multiplied by 
+15 or greater 	25 	25% / 12 
+25 	40 	17% / 12 
+40 	70 	10% / 12 
+If you are ‘Female’ and your age is 	But less than 	the price of the vehicle multiplied by 
+15 or greater 	25 	20% / 12 
+25 	40 	15% / 12 
+40 	70 	10% / 12 
+ 
+First, create a flowchart that clearly shows all the paths of execution that will exist within your designed solution to this problem. Then, write a console application that will input the sex and price of vehicle, and then output the corresponding monthly insurance amount. 
+Your solution must contain examples demonstrating your understanding of appropriate use of functions and core assignment concepts (decision structures).
+EXAMPLES AND TESTING 
+In the section below you will be presented with at least one screenshot of a successful execution of a sample solution to the program, which should help demonstrate how your input/output on the program should work. In addition to the sample values used in the screenshot(s), additional testing values are given in a chart along with the output values that they should produce. You can expect your instructor to grade your assignment by using all of these listed input values at the very least, but keep in mind that additional values may also be used as well. In other words, you should thoroughly test your code before submitting! 
+Sample Output - Make sure your program can output data exactly as shown below. 
+Are you 'Male' or 'Female': Male 
+Enter your age: 27 
+Enter the purchase price of the vehicle: 6500  
+Your monthly insurance will be $92.08 
+
+ 
+Other testing values; 
+Sex 	Age 	Vehicle Price 	Monthly Insurance 
+Male 	23 	500 	$10.42 
+Male 	34 	2500 	$35.42 
+Female 	26 	999 	$12.49 
+Female 	46 	3200 	$26.67 
