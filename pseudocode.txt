@@ -1,0 +1,17 @@
+Author : Clay Bowser
+Date Last Modified : 2020/09/24
+Title : Assignment #2 part C : Auto Insurance
+Goal : Write a program that computes monthly insurance according to the schedule
+
+Prompt User for sex
+Prompt User for age
+Prompt User for price of vehicle
+See flow_chart.jpg for info
+Calculate monthly vehicle insurance
+Display monthly vehicle insurance to User
+
+
+Are you 'Male' or 'Female': Male
+Enter your age: 27
+Enter the purchase price of the vehicle: 6500
+Your monthly insurance will be $92.08
